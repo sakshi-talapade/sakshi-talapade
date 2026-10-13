@@ -184,7 +184,7 @@
 ## 🎓 Education
 
 **Indian Institute of Technology Madras** · *Chennai, India* · `2022 – 2026`
-**B.Tech, Biological Engineering**
+**B.Tech, Chemical Engineering**
 Relevant coursework: Scientific Computing · Business Analytics · DSA · DBMS · Economics · Management Systems
 
 ---
